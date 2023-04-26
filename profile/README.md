@@ -6,4 +6,4 @@ These __open-source__ repositories are aimed at __professionals, researchers and
 Additionally we provide __classification engines in C++/CUDA and Python__. Both are designed to work efficiently and transparently on cubert hyperspectral data cubes.
 The engines let you __train, process and evaluate__ your dataset and the resulting model can __easily be deployed__ in the field.
 
-![test](https://api.cubert-hyperspectral.com/wp-content/uploads/2021/09/20230317_124742-scaled-e1679591411198-768x565.jpg)
+![test]([https://api.cubert-hyperspectral.com/wp-content/uploads/2021/09/20230317_124742-scaled-e1679591411198-768x565.jpg](https://www.spectroexpo.com/wp-content/uploads/2018/07/cubert2018.png))
